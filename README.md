@@ -9,7 +9,7 @@ With the use of Tableau, I was able to determine:
 
 - There was a total of 2 [Graph#1](https://public.tableau.com/authoring/module14_16197560745520/NumberofTrips#2)
 
-- There was 1,900,359 riders that were subscribers where as 443,865 riders were customers (Graph#2](https://public.tableau.com/authoring/module14_16197560745520/Customers#2) 
+- There was 1,900,359 riders that were subscribers where as 443,865 riders were customers [Graph#2](https://public.tableau.com/authoring/module14_16197560745520/Customers#2) 
 
 - The peak time for checkout time is no longer than 5 minutes in duration [Graph#3](https://public.tableau.com/app/profile/josafath.pelayo/viz/Bike_sharing_16255519937160/Dashboard1)
 
