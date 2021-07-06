@@ -7,19 +7,19 @@ The purpose of this project is to convince investors that a bike-sharing program
 ## Results
 With the use of Tableau, I was able to determine:
 
-- There was a total of 2 (Graph#1)[https://public.tableau.com/authoring/module14_16197560745520/NumberofTrips#2]
+- There was a total of 2 [Graph#1](https://public.tableau.com/authoring/module14_16197560745520/NumberofTrips#2)
 
-- There was 1,900,359 riders that were subscribers where as 443,865 riders were customers (Graph#2)[https://public.tableau.com/authoring/module14_16197560745520/Customers#2] 
+- There was 1,900,359 riders that were subscribers where as 443,865 riders were customers (Graph#2](https://public.tableau.com/authoring/module14_16197560745520/Customers#2) 
 
-- The peak time for checkout time is no longer than 5 minutes in duration (Graph#3)[https://public.tableau.com/app/profile/josafath.pelayo/viz/Bike_sharing_16255519937160/Dashboard1]
+- The peak time for checkout time is no longer than 5 minutes in duration [Graph#3](https://public.tableau.com/app/profile/josafath.pelayo/viz/Bike_sharing_16255519937160/Dashboard1)
 
-- Women ride for a minute longer than men. Men is at a peak avg of 5 min where as women ride for 6 minutes(Graph#4)[https://public.tableau.com/app/profile/josafath.pelayo/viz/Bike_sharing_16255519937160/Dashboard1]
+- Women ride for a minute longer than men. Men is at a peak avg of 5 min where as women ride for 6 minutes[Graph#4](https://public.tableau.com/app/profile/josafath.pelayo/viz/Bike_sharing_16255519937160/Dashboard1)
 
-- Peak times throughut the week was at 8am and 5pm-7pm for majority of the weekdays (Graph#5)[https://public.tableau.com/app/profile/josafath.pelayo/viz/Bike_sharing_16255519937160/Dashboard1]
+- Peak times throughut the week was at 8am and 5pm-7pm for majority of the weekdays [Graph#5](https://public.tableau.com/app/profile/josafath.pelayo/viz/Bike_sharing_16255519937160/Dashboard1)
 
-- Men and women peak rideing hours thorughout weekday (Graph#6)[https://public.tableau.com/app/profile/josafath.pelayo/viz/Bike_sharing_16255519937160/Dashboard1]
+- Men and women peak rideing hours thorughout weekday [Graph#6](https://public.tableau.com/app/profile/josafath.pelayo/viz/Bike_sharing_16255519937160/Dashboard1)
 
-- There were more male subscribers than females when looking at gender vs weekday of the month of August (Graph#7)[https://public.tableau.com/app/profile/josafath.pelayo/viz/Bike_sharing_16255519937160/Dashboard1]
+- There were more male subscribers than females when looking at gender vs weekday of the month of August [Graph#7](https://public.tableau.com/app/profile/josafath.pelayo/viz/Bike_sharing_16255519937160/Dashboard1)
 
 
 ### Summary
