@@ -21,6 +21,7 @@ With the use of Tableau, I was able to determine:
 
 - There were more male subscribers than females when looking at gender vs weekday of the month of August [Graph#7](https://public.tableau.com/app/profile/josafath.pelayo/viz/Bike_sharing_16255519937160/Dashboard1)
 
+[Dash_Board](https://public.tableau.com/app/profile/josafath.pelayo/viz/Bike_sharing_16255519937160/Dashboard1)
 
 ### Summary
 Overall, the use of bikesharing program in a metropolitian city like NYC has it's benifits and would likely transfer over to other major cities like Des Moines. The data shows that theor is a high volums of riders even if its for s short duration of time, like 5-6 minutes. Although there is sufficient data to provide to investors, additional analysis can be created. One visualiztion that can be used is to show the total distance convered by weekday or week to show the usage of the bikes. Another good visualization is to show how many times a customer didn't canceled their subscrition or how many new subscribers are added per day. This will provide a ratio of how many returning and new customers the program is retaining. 
